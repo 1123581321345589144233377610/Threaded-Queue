@@ -1,0 +1,3 @@
+/Users/dmitrii_shirokov/Desktop/ThreadedQueue/build/CMakeFiles/threadedQueue.dir
+/Users/dmitrii_shirokov/Desktop/ThreadedQueue/build/CMakeFiles/edit_cache.dir
+/Users/dmitrii_shirokov/Desktop/ThreadedQueue/build/CMakeFiles/rebuild_cache.dir
